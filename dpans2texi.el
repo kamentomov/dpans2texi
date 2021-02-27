@@ -63,7 +63,7 @@
 @settitle ANSI Common Lisp
 @paragraphindent 0
 @exampleindent 0
-@documentencoding utf-8
+@documentencoding ISO-8859-1
 @defindex sy
 @c %**end of header
 @dircategory Programming
